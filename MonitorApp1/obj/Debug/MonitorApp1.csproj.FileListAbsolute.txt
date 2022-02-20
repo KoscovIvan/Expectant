@@ -1,0 +1,28 @@
+D:\Documents\Номад\Программирование\Разработка\Test project for company\Veeam\MonitorApp1\MonitorApp1\bin\Debug\MonitorApp1.exe.config
+D:\Documents\Номад\Программирование\Разработка\Test project for company\Veeam\MonitorApp1\MonitorApp1\bin\Debug\MonitorApp1.exe
+D:\Documents\Номад\Программирование\Разработка\Test project for company\Veeam\MonitorApp1\MonitorApp1\bin\Debug\MonitorApp1.pdb
+D:\Documents\Номад\Программирование\Разработка\Test project for company\Veeam\MonitorApp1\MonitorApp1\obj\Debug\MonitorApp1.csproj.CoreCompileInputs.cache
+D:\Documents\Номад\Программирование\Разработка\Test project for company\Veeam\MonitorApp1\MonitorApp1\obj\Debug\MonitorApp1.exe
+D:\Documents\Номад\Программирование\Разработка\Test project for company\Veeam\MonitorApp1\MonitorApp1\obj\Debug\MonitorApp1.pdb
+D:\Documents\Номад\Программирование\Разработка\Test project for company\Veeam\MonitorApp1\MonitorApp1\obj\Debug\MonitorApp1.csprojResolveAssemblyReference.cache
+D:\Documents\Программирование\Разработка\Proj\Veeam\MonitorApp1\MonitorApp1\bin\Debug\MonitorApp1.exe.config
+D:\Documents\Программирование\Разработка\Proj\Veeam\MonitorApp1\MonitorApp1\bin\Debug\MonitorApp1.exe
+D:\Documents\Программирование\Разработка\Proj\Veeam\MonitorApp1\MonitorApp1\bin\Debug\MonitorApp1.pdb
+D:\Documents\Программирование\Разработка\Proj\Veeam\MonitorApp1\MonitorApp1\obj\Debug\MonitorApp1.csprojAssemblyReference.cache
+D:\Documents\Программирование\Разработка\Proj\Veeam\MonitorApp1\MonitorApp1\obj\Debug\MonitorApp1.csproj.CoreCompileInputs.cache
+D:\Documents\Программирование\Разработка\Proj\Veeam\MonitorApp1\MonitorApp1\obj\Debug\MonitorApp1.exe
+D:\Documents\Программирование\Разработка\Proj\Veeam\MonitorApp1\MonitorApp1\obj\Debug\MonitorApp1.pdb
+D:\Documents\Номад\Программирование\Разработка\Test project for company\Veeam\MonitorApp1.0.0.1\MonitorApp1\bin\Debug\MonitorApp1.exe.config
+D:\Documents\Номад\Программирование\Разработка\Test project for company\Veeam\MonitorApp1.0.0.1\MonitorApp1\bin\Debug\MonitorApp1.exe
+D:\Documents\Номад\Программирование\Разработка\Test project for company\Veeam\MonitorApp1.0.0.1\MonitorApp1\bin\Debug\MonitorApp1.pdb
+D:\Documents\Номад\Программирование\Разработка\Test project for company\Veeam\MonitorApp1.0.0.1\MonitorApp1\obj\Debug\MonitorApp1.csprojResolveAssemblyReference.cache
+D:\Documents\Номад\Программирование\Разработка\Test project for company\Veeam\MonitorApp1.0.0.1\MonitorApp1\obj\Debug\MonitorApp1.csproj.CoreCompileInputs.cache
+D:\Documents\Номад\Программирование\Разработка\Test project for company\Veeam\MonitorApp1.0.0.1\MonitorApp1\obj\Debug\MonitorApp1.exe
+D:\Documents\Номад\Программирование\Разработка\Test project for company\Veeam\MonitorApp1.0.0.1\MonitorApp1\obj\Debug\MonitorApp1.pdb
+D:\Documents\Номад\Программирование\Разработка\Test project for company\Veeam\MonitorApp1.0.0.1 — копия\MonitorApp1\bin\Debug\MonitorApp1.exe.config
+D:\Documents\Номад\Программирование\Разработка\Test project for company\Veeam\MonitorApp1.0.0.1 — копия\MonitorApp1\bin\Debug\MonitorApp1.exe
+D:\Documents\Номад\Программирование\Разработка\Test project for company\Veeam\MonitorApp1.0.0.1 — копия\MonitorApp1\bin\Debug\MonitorApp1.pdb
+D:\Documents\Номад\Программирование\Разработка\Test project for company\Veeam\MonitorApp1.0.0.1 — копия\MonitorApp1\obj\Debug\MonitorApp1.csprojResolveAssemblyReference.cache
+D:\Documents\Номад\Программирование\Разработка\Test project for company\Veeam\MonitorApp1.0.0.1 — копия\MonitorApp1\obj\Debug\MonitorApp1.csproj.CoreCompileInputs.cache
+D:\Documents\Номад\Программирование\Разработка\Test project for company\Veeam\MonitorApp1.0.0.1 — копия\MonitorApp1\obj\Debug\MonitorApp1.exe
+D:\Documents\Номад\Программирование\Разработка\Test project for company\Veeam\MonitorApp1.0.0.1 — копия\MonitorApp1\obj\Debug\MonitorApp1.pdb

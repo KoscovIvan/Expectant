@@ -1,0 +1,7 @@
+D:\Documents\Программирование\Разработка\Proj\Veeam\MonitorApp1\MonitorApp1\bin\Release\MonitorApp1.exe.config
+D:\Documents\Программирование\Разработка\Proj\Veeam\MonitorApp1\MonitorApp1\bin\Release\MonitorApp1.exe
+D:\Documents\Программирование\Разработка\Proj\Veeam\MonitorApp1\MonitorApp1\bin\Release\MonitorApp1.pdb
+D:\Documents\Программирование\Разработка\Proj\Veeam\MonitorApp1\MonitorApp1\obj\Release\MonitorApp1.csprojAssemblyReference.cache
+D:\Documents\Программирование\Разработка\Proj\Veeam\MonitorApp1\MonitorApp1\obj\Release\MonitorApp1.csproj.CoreCompileInputs.cache
+D:\Documents\Программирование\Разработка\Proj\Veeam\MonitorApp1\MonitorApp1\obj\Release\MonitorApp1.exe
+D:\Documents\Программирование\Разработка\Proj\Veeam\MonitorApp1\MonitorApp1\obj\Release\MonitorApp1.pdb
